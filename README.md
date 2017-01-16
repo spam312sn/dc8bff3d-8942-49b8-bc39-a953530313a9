@@ -6,7 +6,7 @@
 * 2017-01-16
 * Language: PHP
 
-## Original tak (as is, email raw)
+## Original task (as is, email raw)
 ```
 /1. Provide code for the core entities and interfaces for a netflix-like
 project by the following definitions//
