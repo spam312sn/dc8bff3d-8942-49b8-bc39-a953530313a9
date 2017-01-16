@@ -7,7 +7,7 @@
 * Language: PHP
 
 ## Original tak (as is, email raw)
-
+```
 /1. Provide code for the core entities and interfaces for a netflix-like
 project by the following definitions//
 //Entities ://
@@ -28,3 +28,4 @@ https://www.netflix.com)//
 //---------//
 //*** NOTE! Is not needed to implement real functionalities , in methods
 you can use just a comment like : // body of method : "Current method"//
+```
